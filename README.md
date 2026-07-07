@@ -1,1 +1,2 @@
 # SmartFarm
+- daily record
